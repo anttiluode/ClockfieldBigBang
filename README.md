@@ -1,7 +1,3 @@
-Here is the README.md for your new repository. It is written to be a perfect capstone to the Honest Ledger: rigorous, chronological, and entirely free of hype.
-
-# ---
-
 **ClockfieldBigBang**
 
 **Ah. Ah. Ok.**
